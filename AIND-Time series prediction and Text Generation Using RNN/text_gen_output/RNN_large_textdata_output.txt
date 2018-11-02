@@ -1,0 +1,15 @@
+-------------------
+input chars = 
+s eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin "
+predicted chars = 
+the cornor in stiend, and the who mad be shoodder.  it was alrowing in for the knows. he was a shall"
+-------------------
+input chars = 
+ eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin t"
+predicted chars = 
+he cornor in stiend, and the who mad be shoodder.  it was alrowing in for the knows. he was a shall "
+-------------------
+input chars = 
+es she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to l"
+predicted chars = 
+ook and shoomss to him whell with they to the comorestate. his ame to have an eventing in o clought "
